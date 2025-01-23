@@ -5,4 +5,4 @@ It should be noted however that the framework is currently using the central dif
 
 # Helper Material
 
-Clueless as to how neural networks work? Use the Manim animation engine to get an `mp4` out of the Python code in *./scene* illustrating the neural network implemented in *example.zig*.
+Clueless about how neural networks work? Use the Manim animation engine to get an `mp4` out of the Python code in *./scene* illustrating the neural network implemented in *example.zig*.
