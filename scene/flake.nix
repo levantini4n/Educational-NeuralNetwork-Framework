@@ -50,7 +50,7 @@
             export PYTHONPATH="$PWD/.uv/packages:$PYTHONPATH"
             export PATH="$PWD/.uv/bin:$PATH"
 	    echo Make sure you do \"uv venv\" and then \"uv pip install manim\"
-	    echo \"uv run manim -pqh nn.py SCENE_NAME\" to use manim
+	    echo \"uv run manim -pqh nn.py CombinedScene\" to use manim
           '';
         };
       }
