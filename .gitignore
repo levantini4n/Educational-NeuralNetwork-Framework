@@ -1,4 +1,4 @@
-./scene/__pycache__
-./scene/.venv
-./scene/media
-./scene/flake.lock
+scene/__pycache__
+scene/.venv
+scene/media
+scene/flake.lock
