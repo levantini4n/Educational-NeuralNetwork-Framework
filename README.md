@@ -1,7 +1,11 @@
 # INSPIRATION
 - https://github.com/tsoding/nn.h
 
-It should be noted however that the framework is currently using the central difference theorem rather than actual back propagation
+It should be noted however that the framework is currently using the central difference theorem rather than actual back propagation.
+To test it:
+```bash
+zig run example.zig
+```
 
 # Helper Material
 
