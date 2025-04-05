@@ -2,6 +2,9 @@
 - https://github.com/tsoding/nn.h
 
 It should be noted however that the framework is currently using the central difference theorem rather than actual back propagation.
+
+# Run 
+`example.zig` will serve as the main file, and the neural network will model the XOR gate.
 ```bash
 zig run example.zig
 ```
