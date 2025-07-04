@@ -3,10 +3,10 @@
 {
   packages = with pkgs; [
     manim
+    zig
   ];
 
   enterShell = ''
-    # Set up a local directory for uv to install packages
     echo "manim -pqh nn.py CombinedScene" to use manim
   '';
 }
