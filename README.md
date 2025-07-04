@@ -14,6 +14,6 @@ zig run example.zig
 Clueless about how neural networks work? Use the Manim animation engine to get an `mp4` out of the Python code in *scene/nn.py* illustrating the neural network implemented in *example.zig*.
 
 If you are using nix and flakes, just:
-1. `devenv shell`
-2. `cd scene`
+1. `cd scene`
+2. `devenv shell`
 3. Follow instructions that get printed out to the terminal
